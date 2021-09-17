@@ -1,7 +1,7 @@
 # Documentacao do App MooviFast
 
 ## Casos de uso:
-1. [caso de uso - login](Documentacao/caso de uso - login.png);
+1. [caso de uso - login](../Documentacao/caso de uso - login.png);
 2. caso de uso - cadastro;
 3. caso de uso - rotas alternativas;
 4. caso de uso - histórico.
