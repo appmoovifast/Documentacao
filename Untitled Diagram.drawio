@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T23:59:50.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="liavKDDyWb9qAG6c3Ny9" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-17T00:02:54.016Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="uucJ1GEoam157PiDGO0G" version="14.8.2" type="github">
   <diagram id="sc9dREGtVu13AQ7vpWBf" name="Page-1">
     <mxGraphModel dx="1038" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,15 @@
             <mxPoint x="230" y="270" as="sourcePoint" />
             <mxPoint x="340" y="350" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="y6Q9aqJiOBDrJYmQlZiI-10" value="Digitar endereço destino" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="454" y="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y6Q9aqJiOBDrJYmQlZiI-11" value="Abrir aba endereço" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="110" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y6Q9aqJiOBDrJYmQlZiI-12" value="Escolher&amp;nbsp; rota desejada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="340" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
