@@ -1,4 +1,22 @@
-# Documentacao inicial do App MooviFast
+# Documentacao do App MooviFast
+
+## Casos de uso:
+1. caso de uso - login;
+2. caso de uso - cadastro;
+3. caso de uso - rotas alternativas;
+4. caso de uso - histórico.
+
+## Diagramas de casos de uso:
+1. Diagrama caso de uso - login;
+2. Diagrama caso de uso - cadastro;
+3. Diagrama caso de uso - rotas alternativas;
+4. Diagrama caso de uso - histórico.
+
+## Diagramas de Atividades:
+1. Diagrama de atividades para caso de uso - login;
+2. Diagrama de atividades para caso de uso - cadastro;
+3. Diagrama de atividades para caso de uso - rotas alternativas;
+4. Diagrama de atividades para caso de uso - histórico.
 
 ## Equipe:
 ### Adma Raia Silva, (RA 12109320); 
