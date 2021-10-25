@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T16:11:33.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Ds5_DRY-OZK0J8wIaEVc" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-25T16:19:31.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="vcGXBRHEWKezpvBKBrLi" version="15.5.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -421,6 +421,9 @@
         </mxCell>
         <mxCell id="9FR6ZJBjA45qDFDVuKuG-86" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;" parent="9FR6ZJBjA45qDFDVuKuG-85" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QOKomUHGkkV5Fk_HoZt-0" value="Esse diagrama não é mais válido. Somente o diagrama abaixo." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="880" y="120" width="190" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
