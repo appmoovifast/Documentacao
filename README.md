@@ -18,6 +18,10 @@
 3. Diagrama de atividades para caso de uso - rotas alternativas;
 4. Diagrama de atividades para caso de uso - histórico.
 
+## Diagramas de Classe e Objeto:
+1. Diagrama de Classe
+
+
 ## Equipe:
 ### Adma Raia Silva, (RA 12109320); 
 ### Carolina Diniz Santos, (RA 12109399); 
